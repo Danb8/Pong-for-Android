@@ -14,6 +14,7 @@ Add a start menu and an options menu.
 Maybe make some classes so everything isn't crammed into the main activity.
 Look at tutorials/other pong repositories and compare what I've done to what they've done. Learn the differences.
 Lock the game to landscape mode. (I thought I had done this but it apparently didn't work!)
+Use these changes as an excuse to practice/learn more about git and github.
 Other things.
 
 I had no experience doing most of the things required to make this app, so it was actually kind of tough to figure out. I feel like
